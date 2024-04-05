@@ -217,11 +217,3 @@
   </tr>
 </table>  
 </div>
-
-# 📊 GitHub Stats:
-
-<!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=Moon0922&count_private=true&show_icons=true&theme=react"  alt=""/>
-<img width="425" src="https://streak-stats.demolab.com/?user=Moon0922&theme=react"  alt=""/><br>   -->
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Moon0922&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-
-<!-- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon0922&layout=donut" alt=""/><br> -->
