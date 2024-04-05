@@ -1,4 +1,4 @@
-<center><h1>J@son Ramirez</h1></center>
+<center><h1>Odd Geeks</h1></center>
 <img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
 
 # About Me
