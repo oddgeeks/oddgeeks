@@ -1,29 +1,6 @@
 <center><h1>Odd Geeks</h1></center>
 <img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
 
-# About Me
-
-Seasoned developer with hands-on experience of React, Angular, Vue, 2 years of finesse in Reactjs, and a year's expertise in Solidity.
-Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years.
-Dedicated to crafting elegant and scalable solutions.
-
-# I am
-
-```
-  👨‍💻 Professional Software Engineer
-  💻 Expert in Enterprise-Level Development with Web and Mobile Experience
-  📈 Adherent to Agile Development Principles
-  ⚡ Innovator in Design and Collaboration
-  🤖 Proficient in AI and ML Integration
-  🎯 Stay up-to-date with IT industry trends
-```
-
-# Skill Set
-
-    🔹   Frontend: React, Vue, Angular, Next, Electron ...
-    🔹   Backend: Node.js, Express.js, C++, Java, C#, .NET, Python, PHP...
-    🔹   DB: PostgreSQL, MsSQL, MySql, Oracle, MongoDB...
-
 # Languages and Tools
 
 <div style="display: flex; align-items: flex-start; align-content: center">  
